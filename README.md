@@ -1,4 +1,4 @@
-# Project Name - ShopEasy
+# ShopEasy
 
 # Live Demo
  
